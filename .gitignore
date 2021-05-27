@@ -3,3 +3,4 @@
 composer.lock
 coverage.xml
 .coverage_html
+.idea
